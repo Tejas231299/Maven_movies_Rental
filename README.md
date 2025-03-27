@@ -85,57 +85,57 @@ Retrieve customer first name, last name, and email ID.
 ![Highest Revenue Store](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_REVENUE.png)
 
 ### 11. Monthly Rentals Count
-![Rentals Per Month](Code_outputs/RENTALS_PER_MONTH.png)
+![Rentals Per Month](output/RENTALS_PER_MONTH.png)
 
 ### 12. Customers Eligible for Rewards
-![Reward Eligible Customers](Code_outputs/REWARD_VIA_PHONE.png)
+![Reward Eligible Customers](output/REWARD_VIA_PHONE.png)
 
 ### 13. Payments from First 100 Customers
-![First 100 Customer Payments](Code_outputs/PAYMENT_DETAILS_FIRST_100.png)
+![First 100 Customer Payments](output/PAYMENT_DETAILS_FIRST_100.png)
 
 ### 14. Payments Over $5 Since Jan 1, 2006
-![Payments Over $5](Code_outputs/OLD_CUSTOMER_OVER_5$.png)
+![Payments Over $5](output/OLD_CUSTOMER_OVER_5$.png)
 
 ### 15. Payments Over $5 for Specific Customers
-![Payments Over $5](Code_outputs/OLD_CUSTOMER_OVER_5$.png)
+![Payments Over $5](output/OVER_5_DOLLAR.png)
 
 ### 16. Films with 'Behind the Scenes' Special Feature
-![Behind the Scenes Films](Code_outputs/FILMS_WITH_SPECIAL_FEATURES.png)
+![Behind the Scenes Films](output/FILMS_WITH_SPECIAL_FEATURES.png)
 
 ### 17. Unique Movie Ratings and Count
-![Unique Ratings](Code_outputs/RATINGWISE_MOVIES.png)
+![Unique Ratings](output/RATINGWISE_MOVIES.png)
 
 ### 18. Titles Count by Rental Duration
-![Rental Duration Count](Code_outputs/RENTAL_DURATIONWISE_MOVIES.png)
+![Rental Duration Count](output/RENTAL_DURATIONWISE_MOVIES.png)
 
 ### 19. Ratings, Movie Count, Length, and Rental Duration
-![Ratings and Rental Duration](Code_outputs/COMPARE_LENGTH.png)
+![Ratings and Rental Duration](output/COMPARE_LENGTH.png)
 
 ### 20. Film Count by Replacement Cost with Rental Rates
-![Replacement Cost Analysis](Code_outputs/RENTAL_VS_REPLACEMENT.png)
+![Replacement Cost Analysis](output/RENTAL_VS_REPLACEMENT.png)
 
 ### 21. Customers with Less Than 15 Rentals
-![Low Rental Customers](Code_outputs/NON_LOYAL_CUSTOMERS.png)
+![Low Rental Customers](output/NON_LOYAL_CUSTOMERS.png)
 
 ### 22. Longest Films Sorted by Length and Rental Rate
-![Longest Films](Code_outputs/COMPARE_LENGTH.png)
+![Longest Films](output/COMPARE_LENGTH.png)
 
 ### 23. Categorization of Movies by Length
-![Movies Categorized by Length](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
+![Movies Categorized by Length](output/RENTAL_DURATIONWISE_MOVIES.png)
 
 ### 24. Movie Recommendations by Age Group
-![Age-Based Recommendations](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIT_FOR_RECOMMENDATION.png)
+![Age-Based Recommendations](output/RECOMMENDATION_SYSTEM.png)
 
 ### 25. Films Inventory List
-![Films in Inventory](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FILMS_IN_INVENTORY.png)
+![Films in Inventory](output/FILM_INVENTORY.png)
 
 ### 26. Actor Movie Count
-![Actor Movie Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/NO_OF_FILMS_BY_ACTOR.png)
+![Actor Movie Count](output/ACTORS_NUMBER_OF_FILMS.png)
 
 ### 27. Number of Actors per Film
-![Actors per Title](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/ACTOR_ASSOCIATED_WITH_TITLE.png)
+![Actors per Title](output/INVESTOR_REQUEST.png)
 
 ### 28. List of Staff and Advisors
-![Staff and Advisors](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNION.png)
+![Staff and Advisors](output/CONFERENCE_LIST.png)
 
 ---
