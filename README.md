@@ -58,28 +58,28 @@ Retrieve customer first name, last name, and email ID.
 ![Customer Info](output/CUSTOMER_TABLE.png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](Code_outputs/CHEAPEST_RENTALS.png)
+![Cheapest Rental](output/CHEAPEST_RENTALS.png)
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](Code_outputs/TOTAL_NUMBER_OF_MOVIES.png)
+![Total Movies per Rental Rate](output/TOTAL_NUMBER_OF_MOVIES.png)
 
 ### 4. Most Common Movie Rating
-![Rating Count](Code_outputs/RATING_WISE_COUNT.png)
+![Rating Count](output/RATING_WISE_COUNT.png)
 
 ### 5. Most Prevalent Rating per Store
-![Rating per Store](Code_outputs/TOTAL_FILMS.png)
+![Rating per Store](output/TOTAL_FILMS.png)
 
 ### 6. List of Films by Name, Category, and Language
-![Film List](Code_outputs/CATEGORY_NAME.png)
+![Film List](output/CATEGORY_NAME.png)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](Code_outputs/POPULARITY.png)
+![Rental Popularity](output/POPULARITY.png)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](Code_outputs/REVENUE_PER_MOVIE.png)
+![Revenue per Film](output/REVENUE_PER_MOVIE.png)
 
 ### 9. Highest Spending Customer
-![Most Spending Customer](Code_outputs/MOST_SPENDING_CUSTOMER.png)
+![Most Spending Customer](output/MOST_SPENDING_CUSTOMER.png)
 
 ### 10. Store with Most Revenue
 ![Highest Revenue Store](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_REVENUE.png)
